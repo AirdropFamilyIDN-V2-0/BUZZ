@@ -1,4 +1,5 @@
 # BUZZ AUTO MINING MULTI AKUN 
+![image](https://github.com/user-attachments/assets/cee6b07a-5709-4634-ac58-d3a3760bbe5a)
 
 
 Register AirDrop : https://t.me/AirdropFamilyIDN/7343
