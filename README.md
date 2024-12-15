@@ -1,5 +1,5 @@
 # BUZZ AUTO MINING MULTI AKUN 
-![image](https://github.com/user-attachments/assets/cee6b07a-5709-4634-ac58-d3a3760bbe5a)
+![image](https://github.com/user-attachments/assets/161678fb-fca8-4716-bc09-7dd69fad9b41)
 
 
 Register AirDrop : https://t.me/AirdropFamilyIDN/7343
@@ -16,6 +16,8 @@ cd BUZZ
 python bot.py
 ```
 
-# Isi Data.txt dengan Queryid/Userid
+# Isi Data.txt dengan Bearer eyJhbGciOiJIUzI1Nixxxxxxxx 
+
+Cara Ambil Berer : https://youtu.be/fOlKlMDEO58
 
 Join Channel : https://t.me/AirdropFamilyIDN
