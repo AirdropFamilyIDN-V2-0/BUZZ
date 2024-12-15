@@ -18,6 +18,6 @@ python bot.py
 
 # Isi Data.txt dengan Bearer eyJhbGciOiJIUzI1Nixxxxxxxx 
 
-Cara Ambil Berer : https://youtu.be/fOlKlMDEO58
+Cara Ambil Bearer: https://youtu.be/fOlKlMDEO58
 
 Join Channel : https://t.me/AirdropFamilyIDN
